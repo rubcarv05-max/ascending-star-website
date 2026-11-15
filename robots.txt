@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: replace YOUR-DOMAIN once the domain is bought
+Sitemap: https://YOUR-DOMAIN/sitemap.xml

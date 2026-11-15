@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="110 80 800 690" role="img" aria-label="Ascending Star logo">
+  <!-- Ascending Star mark: blue "A" with star cut-out + gold triangle. Transparent background. -->
+  <path fill="#0B74F5" d="M510 100 L878 708 Q906 750 858 750 L602 558 L702 465 L568 465 L510 335 L452 465 L318 465 L418 558 L162 750 Q114 750 142 708 Z"/>
+  <path fill="#FDB00F" stroke="#FDB00F" stroke-width="14" stroke-linejoin="round" d="M510 580 L636 740 L384 740 Z"/>
+</svg>
